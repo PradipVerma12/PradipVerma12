@@ -5,7 +5,7 @@ Cybersecurity Enthusiast • Ethical Hacking Learner • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Enthusiast;Cyber+Security+Learner;Building+Awesome+Projects;Welcome+to+My+GitHub+Profile!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Full+Stack+Developer;Building+CyberShield+AI;Exploring+Network+Security;Learning+Every+Day!"/>
 </p>
 
 <p align="center">
