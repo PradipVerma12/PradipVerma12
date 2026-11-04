@@ -133,7 +133,7 @@ A cybersecurity web application designed to provide multiple security analysis a
 
 **GitHub Repository:**
 
-[🔗 View CyberShield AI](https://github.com/PradipVerma12/learnify-ai-platform)
+[🔗 View Learnify AI](https://github.com/PradipVerma12/learnify-ai-platform)
 
 ---
 
