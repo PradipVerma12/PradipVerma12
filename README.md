@@ -82,24 +82,58 @@ Cybersecurity Enthusiast • Ethical Hacking Learner • Full Stack Developer
 
 # 🚀 Featured Projects
 
+## 🛡️ CyberShield AI – Cybersecurity Toolkit
+
+### 🔐 A Modern Cybersecurity Dashboard
+
+A cybersecurity web application designed to provide multiple security analysis and protection utilities through a single dashboard.
+
+**Tech Stack:**
+- Next.js 15
+- TypeScript
+- Node.js & Express.js
+- MongoDB
+- JWT Authentication
+- Web Crypto API
+- Tailwind CSS
+
+**✨ Key Features**
+
+- 🔑 Password Strength Checker
+- 🎣 Phishing URL Detection
+- 📧 Email Phishing Analyzer
+- 🔍 TCP Port Scanner
+- 🔒 AES-256-GCM File Encryption & Decryption
+- 📊 Security Dashboard
+- 📄 PDF & CSV Reports
+- 🛡️ JWT Authentication
+- 📜 Scan History & Security Reports
+
+**GitHub Repository:**
+
+[🔗 View CyberShield AI](https://github.com/PradipVerma12/CyberShield-AI)
+
+---
+
 ## 🎓 Learnify AI
 
-### 📚 AI Based Learning Platform
+### 📚 AI-Based Learning Platform
 
-**Tech Stack**
-
+**Tech Stack:**
 - React.js
 - HTML5
 - CSS3
 - JavaScript
 
-### ✨ Features
-
+**Features:**
 - 🤖 AI Chat Interface
 - 📚 Learning Dashboard
-- 📱 Fully Responsive Design
+- 📱 Responsive Design
 - 🎨 Modern UI/UX
-- ⚡ Fast Performance
+
+**GitHub Repository:**
+
+[🔗 View CyberShield AI](https://github.com/PradipVerma12/learnify-ai-platform)
 
 ---
 
@@ -107,37 +141,31 @@ Cybersecurity Enthusiast • Ethical Hacking Learner • Full Stack Developer
 
 ### 💻 Online Bus Reservation System
 
-**Tech Stack**
-
+**Tech Stack:**
 - HTML5
 - CSS3
 - JavaScript
 
-### ✨ Features
-
+**Features:**
 - 🔍 Route Search
 - 👤 Passenger Details
 - 🎫 Booking Confirmation
-- 📱 Mobile Responsive
+- 📱 Mobile Responsive Design
 
 ---
 
-## 🛡️ CyberShield AI *(Currently Working)*
+# 💻 Currently Learning
 
-### 🔐 AI Powered Cyber Security Platform
-
-**Planned Features**
-
-- 🛡️ Phishing Detection
-- 📧 Email Scanner
-- 🔗 URL Scanner
-- 🤖 AI Threat Detection
-- 📊 Security Dashboard
-- 🔒 Safe Browsing
-
-🚧 **Project Status:** Under Development
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Network Security
+- 🛡️ Web Application Security
+- 🔍 Vulnerability Assessment & Penetration Testing
+- 🐧 Linux & Kali Linux Fundamentals
+- ☁️ Cloud Security
+- ⚛️ Full Stack Development
 
 ---
+
 
 # 🏆 Certifications
 
